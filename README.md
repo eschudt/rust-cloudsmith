@@ -1,6 +1,6 @@
 # `rust-cloudsmith`: Rust docker container with cloudsmith cli installed for private registry
 
-[![Docker Image](https://hub.docker.com/repository/docker/eschudt/rust-cloudsmith)](https://hub.docker.com/repository/docker/eschudt/rust-cloudsmith/)
+[Docker Image](https://hub.docker.com/repository/docker/eschudt/rust-cloudsmith)
 
 - [Source on GitHub](https://github.com/eschudt/rust-cloudsmith)
 - [Changelog](https://github.com/eschudt/rust-cloudsmith/CHANGELOG.md)

@@ -1,5 +1,5 @@
 # Rust build
-FROM rust:1.64.0
+FROM rust:1.65.0
 
 # Install dependencies
 RUN apt-get update && apt-get install -y python && apt-get install -y python3-pip
